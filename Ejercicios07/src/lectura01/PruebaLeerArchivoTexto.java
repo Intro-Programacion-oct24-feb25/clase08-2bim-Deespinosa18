@@ -4,10 +4,10 @@ package lectura01;
 public class PruebaLeerArchivoTexto {
 
     public static void main(String args[]) {
-        // LeerArchivoTexto.leerRegistros01();
+         //LeerArchivoTexto.leerRegistros01();
         // LeerArchivoTexto.leerRegistros02();
-        LeerArchivoTexto.leerRegistros03();
-        // LeerArchivoTexto.leerRegistros04();
+        //LeerArchivoTexto.leerRegistros03();
+         LeerArchivoTexto.leerRegistros04();
 
     } // fin de main
 } // fin de la clase PruebaLeerArchivoTexto
@@ -17,3 +17,4 @@ public class PruebaLeerArchivoTexto {
  * Pearson Education, Inc. Todos los derechos reservados.                 *
  
  *************************************************************************/
+//analizar como es el hecho de entrar a analizar una leida de datos de un documento, mediananmente formateado
