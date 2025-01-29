@@ -1,5 +1,6 @@
 Nombres: Jason
 Apellidos: Lynch
+username: j.lynch@ytpl.edu.ec
 Con notas: 
 10-M
 80-S
@@ -8,10 +9,12 @@ Con notas:
 
 Promedio - 66,250000
 Número de notas arriba del promedio: 3
-
+Nota mas baja: 10
+Nota mas alta: 95
 
 Nombres: Jonathan
 Apellidos: George
+username: j.george@ytpl.edu.ec
 Con notas: 
 40-MB
 80-S
@@ -20,10 +23,12 @@ Con notas:
 
 Promedio - 61,250000
 Número de notas arriba del promedio: 2
-
+Nota mas baja: 40
+Nota mas alta: 80
 
 Nombres: Kristen
 Apellidos: Lang
+username: k.lang@ytpl.edu.ec
 Con notas: 
 80-S
 10-M
@@ -32,10 +37,12 @@ Con notas:
 
 Promedio - 41,250000
 Número de notas arriba del promedio: 1
-
+Nota mas baja: 10
+Nota mas alta: 80
 
 Nombres: Robin
 Apellidos: Cochran
+username: r.cochran@ytpl.edu.ec
 Con notas: 
 70-S
 30-MB
@@ -44,10 +51,12 @@ Con notas:
 
 Promedio - 46,250000
 Número de notas arriba del promedio: 2
-
+Nota mas baja: 20
+Nota mas alta: 70
 
 Nombres: Michelle
 Apellidos: Young
+username: m.young@ytpl.edu.ec
 Con notas: 
 60-S
 50-MB
@@ -56,10 +65,12 @@ Con notas:
 
 Promedio - 63,750000
 Número de notas arriba del promedio: 3
-
+Nota mas baja: 50
+Nota mas alta: 75
 
 Nombres: Emily
 Apellidos: Fletcher
+username: e.fletcher@ytpl.edu.ec
 Con notas: 
 50-MB
 70-S
@@ -68,10 +79,12 @@ Con notas:
 
 Promedio - 58,750000
 Número de notas arriba del promedio: 2
-
+Nota mas baja: 30
+Nota mas alta: 85
 
 Nombres: Noah
 Apellidos: Adkins
+username: n.adkins@ytpl.edu.ec
 Con notas: 
 40-MB
 80-S
@@ -80,10 +93,12 @@ Con notas:
 
 Promedio - 51,250000
 Número de notas arriba del promedio: 1
-
+Nota mas baja: 40
+Nota mas alta: 80
 
 Nombres: Daniel
 Apellidos: Harris
+username: d.harris@ytpl.edu.ec
 Con notas: 
 30-MB
 90-S
@@ -92,6 +107,7 @@ Con notas:
 
 Promedio - 66,250000
 Número de notas arriba del promedio: 2
-
+Nota mas baja: 30
+Nota mas alta: 95
 
 
